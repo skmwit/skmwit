@@ -15,4 +15,6 @@
   <li>Web programming</li>
 </ul>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skmwit&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skmwit&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=skmwit&layout=compact)
