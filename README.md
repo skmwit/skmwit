@@ -4,6 +4,7 @@
   <li>2018.11 : Sookmyung Women's Univ. WIC Hackathon 3rd place</li>
   <li>2019.02 : Kyshu Univ.</li>
   <li>2019.02 : Inha Univ. Super Challenge Hackathon 'Best Idea' awards</li>
+     <https://github.com/skmwit/Portfolio/tree/master/superchallenge>
   <li>2019.09 ~ 2020. 07 : Prography Ting-Ting team Android Developer </li>
   <li>2021.01 ~ 2021.02 : ETRI (한국 전자 통신 연구원) Intern</li>
 </ul>
