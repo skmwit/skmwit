@@ -10,8 +10,8 @@
 
 <h3>🔸 Interest</h3>
 <ul>
-  <li>AOS software development</li>
-  <li>Window programming</li>
+  <li>AOS software development (JAVA, Kotlin)</li>
+  <li>Window programming (MFC)</li>
   <li>Web programming</li>
 </ul>
 
