@@ -14,6 +14,7 @@
   <li>AOS software development (JAVA, Kotlin)</li>
   <li>Window programming (MFC)</li>
   <li>Web programming</li>
+  <li>C++, Python Extension</li>
 </ul>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skmwit&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
