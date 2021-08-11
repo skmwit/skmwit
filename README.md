@@ -2,14 +2,12 @@
 <ul>
   <li>2018.03 ~ : Sookmyung Women's Univ. IT Engineering Dep. </li>
   <li>2018.11 : Sookmyung Women's Univ. WIC Make-a-thon 3rd place</li>
-  <li>2019.02 : Kyshu Univ. Hackathon participant</li>
   <li>2019.02 : Inha Univ. Super Challenge Hackathon 'Best Idea' awards</li>
   <li>2019.09 ~ 2020. 07 : Prography Ting-Ting Android Developer </li>
   <li>2021.01 ~ 2021.02 : ETRI (Eletronics and Telecommunications Research Institute) Intern</li>
-  <li>2021.07 ~ : CBiS Intern</li>
 </ul>
 
-<h3>🔸 Interest</h3>
+<h3>🔸 Experiences</h3>
 <ul>
   <li>AOS software development (JAVA, Kotlin)</li>
   <li>Window programming (MFC)</li>
