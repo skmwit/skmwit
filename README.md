@@ -1,11 +1,11 @@
-## :girl: Software Engineering Student  
+## :girl: Software Engineer 
   
   - 2018.03 ~ : Sookmyung Women's Univ. IT Engineering Dep.  
   - 2018.11 : Sookmyung Women's Univ. WIC Make-a-thon 3rd place  
   - 2019.02 : Inha Univ. Super Challenge Hackathon 'Best Idea' awards  
   - 2019.09 ~ 2020. 07 : Prography Ting-Ting Android Developer  
   - 2021.01 ~ 2021.02 : ETRI (Eletronics and Telecommunications Research Institute) Intern  
-  
+  - 2022.01 ~ : LG CNS
     
     
 ## :dizzy: Experiences  
@@ -14,7 +14,7 @@
   - Window programming (MFC)  
   - Web programming  
   - C++, Python Extension  
-  
+  - VDI Automation
     
     
 ## :sparkles: Interest  
